@@ -1,2 +1,2 @@
 # Front-end-sample
-Patika.dev Front-end
+Patika.dev Front-End Example Codes
